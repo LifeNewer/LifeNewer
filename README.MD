@@ -1,0 +1,43 @@
+<!-- Intro part -->
+<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=B612&color=309C46&size=60&center=true&vCenter=true&width=850&height=100&lines=Hello+there%2C+I'm..;+%F0%9F%91%8B+My+name+is+Hanabiraa+%F0%9F%8C%B2;%F0%9F%8C%B2%F0%9F%8C%B1%F0%9F%8C%B3++%F0%9F%8C%BF%F0%9F%8C%B2%F0%9F%8C%B2+%E2%98%98%EF%B8%8F%F0%9F%8C%B3++%F0%9F%8D%80+%F0%9F%8C%B2+)](https://git.io/typing-svg)
+
+***
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://discordapp.com/users/734106915302408244/"><img width="32px" alt="discord profile" title="discord profile" src="assets/discord.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/LifeNewer"><img width="32px" alt="telegram profile" title="telegram profile" src="assets/telegram.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://vk.com/NoLifeNewer"><img width="32px" alt="vk profile" title="vk profile" src="assets/vk.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:e.vasilew2011@yandex.ru"><img width="32px" alt="contact me by email" title="contact me by email" src="assets/gmail.svg"/></a>
+</p>
+
+
+***
+<!-- Bio part -->
+## Обо мне 🌳
+
+Я учусь на бакалавриате 🎓 Политехнического университета Петра Великого по специальности SWE (программная инженерия). Я начинающий разработчик 💻, стремящийся создать собственную игру. .<br/><br/>  
+
+<!-- My targets -->
+## Что мной изучено 🌱
+
+- [x] 1. Переменные и типы
+- [x] 2. Операторы
+- [x] 3. Ветвление и циклы
+- [x] 4. Функции
+- [x] 5. Обратный вызов
+- [x] 6. Области видимости
+- [x] 7. Массивы указатели строки
+- [x] 8. Многомерные массивы
+- [x] 9. Пользовательские типы
+- [x] 10. Объекты и классы
+- [x] 11. Перегрузка операторов
+- [x] 12. Управление ресурсами
+- [x] 13. Структура данных
+- [x] 14. Наследование и полиморфизм
+***
