@@ -1,7 +1,7 @@
 <!-- Intro part -->
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=40&pause=1000&background=000000&center=true&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%D0%AF+LifeNewer;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F;%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%82%D1%81%D1%8F+%D0%BC%D0%BE%D0%B8+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cabin&size=50&pause=1000&background=000000&center=true&width=900&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%D0%AF+LifeNewer;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F;%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D1%8F%D1%82%D1%81%D1%8F+%D0%BC%D0%BE%D0%B8+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)](https://git.io/typing-svg)
 ***
 
 <!-- Social icons section -->
